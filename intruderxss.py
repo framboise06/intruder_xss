@@ -21,4 +21,4 @@ if choice == "GET" or choice == "get":
 			print("La XSS fonctionne => " +website+payload)
 			break
 		else:
-			print("La XSS fonctionne pas :(")
+			print("La XSS ne fonctionne pas :(")
